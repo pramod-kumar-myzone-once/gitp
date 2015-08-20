@@ -7,3 +7,4 @@
  */
 
 echo 'new-index';
+echo 'ffff';
