@@ -8,7 +8,7 @@
 
 class Controller{
     
-    
+    var $x ='aa';
     
     
 }
