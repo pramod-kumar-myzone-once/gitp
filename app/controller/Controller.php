@@ -7,5 +7,5 @@
  */
 
 class Controller {
-    
+    var $ff = null;
 }
