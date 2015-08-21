@@ -7,5 +7,8 @@
  */
 
 class Controller {
+
     var $ff = 'dddd';
+   
+
 }
